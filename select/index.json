@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Bell flower",
   "base_artist": "z²",
-  "createdAt": "2026-02-13T05:47:58.941130Z",
+  "createdAt": "2026-04-03T17:19:11.591423Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -49,8 +49,8 @@
       "source": "lrclib",
       "title": "Morning Bell - Live in Oxford",
       "artist": "Radiohead",
-      "has_synced": false,
-      "path": "select/06_Morning_Bell_-_Live_in_Oxford_Radiohead.txt"
+      "has_synced": true,
+      "path": "select/06_Morning_Bell_-_Live_in_Oxford_Radiohead.lrc"
     },
     {
       "id": "lrclib_7",
@@ -155,6 +155,15 @@
       "artist": "z²",
       "has_synced": false,
       "path": "select/pl_01_Bell_flower_z2.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Bell flower",
+      "artist": "z²",
+      "has_synced": false,
+      "path": "select/localdb_01_Bell_flower_z2.txt",
+      "repo_name": "7Fx-a-lCU2w"
     }
   ]
 }
